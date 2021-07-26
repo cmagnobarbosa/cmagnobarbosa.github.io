@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Magno Barbosa"
-  avatar           : "assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Mestrando em Ciência da Computação UFSJ."
   location         : "Somewhere"
   email            :
