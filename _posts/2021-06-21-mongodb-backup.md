@@ -1,8 +1,10 @@
 # Realizando Backup de dados do MongoDB
 
 
-Neste primeiro post, irei apresentar uma dica rápida sobre realizar
-backup e restauração no MongoDB.
+Neste primeiro post, irei apresentar uma dica rápida dos passos para realizar
+o backup e restauração do banco de dados não relacional MongoDB.
+
+Versão utilizada: MongoDB 4.4
 
 
 Os passos abaixo devem ser realizados no terminal.
@@ -12,7 +14,7 @@ Os passos abaixo devem ser realizados no terminal.
 mongodump --db <banco> --out <pasta>
 ```
 
-### Como fazer backup de uma coleção especifica
+### Como realizer o backup de uma coleção especifica
 ``` console
 mongodump --collection=<colecao> --db <banco> --out <pasta>
 ```
