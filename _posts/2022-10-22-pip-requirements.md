@@ -12,16 +12,13 @@ Com o pip esse processo pode ser realizado através do comando ``pip freeze``, e
 
 Em um terminal execute:
 
-``` Sheel
-
+```
 pip freeze
-
 ```
 
 você ira obter uma saída como a apresentada a seguir:
 
-``` Python
-
+```
 nbformat==5.7.0
 nest-asyncio==1.5.6
 notebook==6.5.1

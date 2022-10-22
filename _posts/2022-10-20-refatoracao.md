@@ -1,6 +1,3 @@
-# Refatoração
-
-
 Refatoração de código é uma tarefa que deve ser realizada constantemente no desenvolvimento de software. Com o tempo a qualidade do código tende a decair e o custo para adição de novas funcionalidades aumenta [1].
 
 Desse modo, o ideal é que sempre ao adicionar uma nova funcionalidade também seja realizada uma tarefa de refatoração, eliminando códigos duplicados, renomeando variáveis e realizando extração de trechos de código em funções [1,2].

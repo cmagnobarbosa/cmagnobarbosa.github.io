@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "exterminus"
 facebook:
   username               :
   app_id                 :
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Carlos Magno Barbosa"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Mestrando em Ciência da Computação UFSJ."
-  location         : "Somewhere"
+  bio              : "Mestre em Ciência da Computação UFSJ."
+  location         : "Brasil"
   email            :
   links:
     - label: "Email"
