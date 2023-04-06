@@ -3,6 +3,7 @@
 Neste repositório, vou adicionar dicas e tutoriais rápidos relacionados a
 programação e problemas que encontro no dia a dia relacionados a computação.
 
+https://carlosmagno.dev.br
 
 * Caso encontre algum erro é só avisar ou fazer um PR.
 
